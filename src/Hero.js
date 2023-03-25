@@ -1,4 +1,3 @@
-import React from 'react'
 import phoneImg from './images/phone.svg'
 import { useGlContext } from './context'
 const Hero = () => {
